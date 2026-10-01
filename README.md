@@ -25,7 +25,9 @@ This dashboard helps identify sales trends, top-performing products, regional pe
 
 ## How to View the Dashboard
 1. Download the `.pbix` file
-2. Open it with **Power BI Desktop** (free)
+2. Open it with "Power BI Desktop".
+3. Alternatively, view the screenshots above for a quick overview.
+
 
 
 
