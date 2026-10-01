@@ -8,9 +8,11 @@ This project is an interactive Power BI dashboard that presents a comprehensive 
 This dashboard helps identify sales trends, top-performing products, regional performance, and profitability opportunities.
 
 ## Tools Used
-- Power BI Desktop
+- Power BI 
 - DAX
 - Superstore Dataset
+- Data Cleaning
+-  Google Docs.
 
 ## Key Insights
 - Strong overall sales performance
