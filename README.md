@@ -28,6 +28,14 @@ This dashboard helps identify sales trends, top-performing products, regional pe
 2. Open it with "Power BI Desktop".
 3. Alternatively, view the screenshots above for a quick overview.
 
+---
+
+## Author
+
+**[Afolayan Racheal Oluwaseun]**  
+      Data Analyst  
+[LinkedIn](https://www.linkedin.com/in/afolayanracheal28/) • [Portfolio](https://datascienceportfol.io/seunoluwafunto28)
+
 
 
 
